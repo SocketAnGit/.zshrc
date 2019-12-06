@@ -1,0 +1,11 @@
+[2019-11-02 21:54:22.190] [sharedprocess] [info] main {"machineId":"30667a24f4c4899d8a45180027b3f91f6b4a4cb6cd7d442853a2acaa6d71f1e2","windowId":2}
+[2019-11-02 21:55:02.149] [sharedprocess] [info] Starting to clean up unused language packs.
+[2019-11-02 21:55:08.918] [sharedprocess] [info] Installing extension: ms-python.python
+[2019-11-02 21:55:11.113] [sharedprocess] [info] Installing extension: ms-vscode.cpptools
+[2019-11-02 21:56:21.063] [sharedprocess] [info] Downloaded extension: ms-vscode.cpptools /tmp/30649d1b-ac10-4330-bed4-94873ec3acdf
+[2019-11-02 21:56:31.948] [sharedprocess] [info] Extracted extension to /home/jk/.vscode-oss/extensions/.ms-vscode.cpptools-0.26.1: ms-vscode.cpptools
+[2019-11-02 21:56:31.951] [sharedprocess] [info] Renamed to /home/jk/.vscode-oss/extensions/ms-vscode.cpptools-0.26.1
+[2019-11-02 21:56:31.987] [sharedprocess] [info] Installation completed. ms-vscode.cpptools
+[2019-11-02 21:56:32.064] [sharedprocess] [info] Extensions installed successfully: ms-vscode.cpptools
+[2019-11-02 22:01:26.940] [sharedprocess] [error] Failed to install extension: ms-python.python 
+[2019-11-02 22:01:41.090] [sharedprocess] [error] Failed to install extension: albert.tabout XHR timeout: undefinedms

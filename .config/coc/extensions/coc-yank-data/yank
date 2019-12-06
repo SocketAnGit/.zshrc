@@ -1,0 +1,53 @@
+83cfa562d560827277e8045b4c07bfcf|file:///home/jk/.config/nvim/README.md|309|1|v|markdown
+	| Shortcut | Action              |
+eb6c706a214fe592eaf8b4112ed122fd|file:///home/jk/.zshrc|159|1|V|zsh
+	source /home/jk/.oh-my-zsh/plugins/themes/themes.plugin.zsh
+a921374b6aec4adb691d3cf1afa6a903|file:///home/jk/.zshrc|161|43|v|zsh
+	themes.plugin.zsh
+0584874bec5885058f096c6559ede5ff|file:///home/jk/.zshrc|161|36|v|zsh
+	themes/archlinux
+061fb08d11d0b293b42bff624b8a7894|file:///home/jk/.zshrc|162|36|v|zsh
+	themes/themes.plugin.zsh
+eb3164b0fd396e16838262e600c5be79|file:///home/jk/.zshrc|163|1|V|zsh
+	source /home/jk/.oh-my-zsh/plugins/git/git.plugin.zsh 
+75fd94a2caf8cce21609d0297831384d|file:///home/jk/.zshrc|165|35|v|zsh
+	/git/git.plugin.zsh 
+f07d5d765bd191bc4b80b19f065604d1|file:///home/jk/.zshrc|165|40|v|zsh
+	git.plugin.zsh 
+0c1e678df327d43b482eaaef70c2e50a|file:///home/jk/.zshrc|166|36|v|zsh
+	git/git.plugin.zsh 
+8d8d5efe63615bf197eb774e5e695f8d|file:///home/jk/.zshrc|168|1|V|zsh
+	source /home/jk/.oh-my-zsh/plugins/man/man.plugin.zsh 
+9fdc72b0a15acee98c9bd9d2ae9b68b7|file:///home/jk/.zshrc|168|36|v|zsh
+	man/man.plugin.zsh 
+be29242c777b63c0ccaf4d8810189eea|file:///home/jk/.zshrc|170|1|V|zsh
+	source /home/jk/.oh-my-zsh/plugins/thefuck/thefuck.plugin.zsh 
+086b5366a85ac5146993a8d9c37e0b34|file:///home/jk/.zshrc|171|36|v|zsh
+	thefuck/thefuck.plugin.zsh 
+d14e8d4529353c2e2ee66026a2f38c23|file:///home/jk/.zshrc|173|1|V|zsh
+	source /home/jk/.oh-my-zsh/plugins/z
+2889e4a6dc373cacc3cae19c16ea0bee|file:///home/jk/.zshrc|215|1|V|zsh
+	plugins=(
+cbfa7840146ecb1c9f5821ccd80f0d02|file:///home/jk/.zshrc|215|2|v|zsh
+	git
+		themes
+		vi-mode
+		python
+		tmux
+		)
+96fb980be3f3d02c11bc6f98a29778ef|file:///home/jk/.zshrc|162|1|V|zsh
+	source /home/jk/.oh-my-zsh/plugins/autojump/autojump.plugin.zsh 
+bcabfc7208409902836991557f613ad8|file:///home/jk/.zshrc|169|1|V|zsh
+	source /home/jk/.oh-my-zsh/plugins/zsh_reload/zsh_reload.plugin.zsh 
+1399e03293defe8624a4dc5129a40c90|file:///home/jk/.zshrc|170|36|v|zsh
+	zsh_reload/zsh_reload.plugin.zsh 
+3bfb77a734acd2129549bf8b399780db|file:///home/jk/.zshrc|170|1|V|zsh
+	source /home/jk/.oh-my-zsh/plugins/catimg/catimg.plugin.zsh 
+fe021943dcda87150f590b3475afaded|file:///home/jk/.zshrc|26|5|v|zsh
+	themes
+baf22e817dd3a8616d5f46e7bdaf8c5f|file:///home/jk/.zshrc|26|1|V|zsh
+	ZSH_THEME = "ys" 
+a50625de0d0c06eff578c9b6944dd553|file:///home/jk/.zshrc|227|1|V|zsh
+	local git_info='$(git_prompt_info)'
+449b64ef1f1744cf3f9e384dee7a805c|file:///home/jk/.config/nvim/init.vim|911|1|V|vim
+	let g:ruby_fold = 1

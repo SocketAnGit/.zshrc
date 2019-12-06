@@ -1,0 +1,3 @@
+[2019-11-02 22:01:27.188] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-02 22:01:41.337] [renderer1] [error] XHR timeout: undefinedms: unknown: XHR timeout: undefinedms
+    at XMLHttpRequest.o.ontimeout.t (file:///usr/lib/code/out/vs/code/electron-browser/sharedProcess/sharedProcessMain.js:165:90)

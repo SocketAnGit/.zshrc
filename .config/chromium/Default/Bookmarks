@@ -1,0 +1,47 @@
+{
+   "checksum": "caa501a054383f1446577d77fd58caa9",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13222182000079742",
+            "guid": "0f7528f0-299d-4b4f-b508-bcdb49a2930d",
+            "id": "5",
+            "name": "Arch User Repository - ArchWiki",
+            "type": "url",
+            "url": "https://wiki.archlinux.org/index.php/Arch_User_Repository"
+         }, {
+            "date_added": "13222182003693027",
+            "guid": "f1b0c510-6db4-45dc-aae7-ae8ca1483e9d",
+            "id": "6",
+            "name": "AUR (en) - Home",
+            "type": "url",
+            "url": "https://aur.archlinux.org/"
+         } ],
+         "date_added": "13222181189099050",
+         "date_modified": "13222182003693027",
+         "guid": "00000000-0000-4000-A000-000000000002",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13222181189099072",
+         "date_modified": "0",
+         "guid": "00000000-0000-4000-A000-000000000003",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13222181189099110",
+         "date_modified": "0",
+         "guid": "00000000-0000-4000-A000-000000000004",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}
